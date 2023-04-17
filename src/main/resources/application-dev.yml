@@ -1,0 +1,5 @@
+spring:
+  datasource:
+    url: jdbc:mariadb://localhost:3306/mosk-dev
+    username: mosk-dev
+    password: 1234
